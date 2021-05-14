@@ -4,8 +4,9 @@
 
 ## SNS - Topic
 resource "aws_sns_topic" "myasg_sns_topic" {
-  name = "myasg-sns-topic-${random_pet.this.id}"
-}
+  #name = "myasg-sns-topic-${random_pet.this.id}"
+  name = "${local.name}-${random_pet.this.id}"
+} 
 
 ## SNS - Subscription
 resource "aws_sns_topic_subscription" "myasg_sns_topic_subscription" {
