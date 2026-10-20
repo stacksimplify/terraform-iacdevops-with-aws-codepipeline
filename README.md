@@ -3,7 +3,7 @@ terraform-iacdevops-with-aws-codepipeline
 
 ---
 
-## My Other Courses (383,000+ Students, 20 Courses)
+## My Other Courses (383,000+ Students, 23 Courses)
 
 > All courses available at [stacksimplify.com/courses](https://stacksimplify.com/courses/)
 
@@ -47,6 +47,7 @@ terraform-iacdevops-with-aws-codepipeline
 | [Helm Masterclass: 50 Practical Demos](https://stacksimplify.com/courses/helm-masterclass/) |
 | [Docker in a Weekend: 40 Practical Demos](https://stacksimplify.com/courses/docker-weekend/) |
 | [Python for Absolute Beginners: From Zero to Real Projects](https://stacksimplify.com/courses/python-for-absolute-beginners/) |
+| [Machine Learning End-to-End: Credit Card Fraud Detection](https://stacksimplify.com/courses/machine-learning-end-to-end-credit-card-fraud-detection/) |
 
 ---
 
